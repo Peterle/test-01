@@ -1,0 +1,12 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="$USER_HOME$/PycharmProjects/17_learning.python/.venv/bin/python" />
+        <option value="$USER_HOME$/PycharmProjects/20_Head First Python/01_base/Link to .venv/bin/python" />
+        <option value="$USER_HOME$/PycharmProjects/20_Head First Python/02 base/Link to .venv/bin/python" />
+        <option value="/usr/bin/python2.7" />
+      </set>
+    </option>
+  </component>
+</application>
